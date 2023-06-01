@@ -12,7 +12,7 @@ Top 5 Similar Questions:
 5. Why do engines/motors sometimes have a hard time starting up in colder weather?
 
 ## How to use:
-you need to change in code on ``step 4: query processing``, and provide your own question
+you need to change the code on ``step 4: query processing`` of `semantic_search_que.ipynb` file, and provide your own question
 ``NOTE``: We haven't integrate it with ``redis vector db`` yet.
 ``Further Development``: We will develop command line tool for easy to use rather than changing the code itself. 
 ## Technologies Used
