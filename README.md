@@ -23,6 +23,7 @@ you need to change the code on ``step 4: query processing`` of `semantic_search_
 - annoy
 - NLP
 
-
+## updated version
+- https://github.com/impc043/Semantic_Search_NLP_v2#result
 ## Contact
 Created by [@impc043] - feel free to reach out!
